@@ -46,7 +46,7 @@ The project database file is included in this repository:
 ![Booking List](screenshots/BookingList.PNG)
 
 ### Add Employee
-![Add Employee](screenshots/AddEmployee.PNG)
+![Add Employee](screenshots/AddEmploye.PNG)
 
 ### Add Expense
 ![Add Expense](screenshots/AddExpense.PNG)
@@ -58,7 +58,7 @@ The project database file is included in this repository:
 ![Calculated Summary](screenshots/CalculatedSummary.PNG)
 
 ### Monthly Profit Report
-![Monthly Profit Report](screenshots/Monthly%20Profit%20Report.PNG)
+![Monthly Profit Report](screenshots/MonthlyProfitReport.PNG)
 
 ## How to Run the Project
 
