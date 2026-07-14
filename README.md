@@ -79,5 +79,5 @@ The project database file is included in this repository:
 
 This project is for educational and portfolio purposes.
 
-7. Create a database named:
+
 
